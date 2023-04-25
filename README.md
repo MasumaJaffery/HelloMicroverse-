@@ -57,9 +57,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HelloMicroverse-] <a name="https://github.com/MasumaJaffery/Hello-Microverse/blob/master/README.md"></a>
+# 📖 [HelloMicroverse-] <a name="https://github.com/MasumaJaffery/HelloMicroverse-/blob/master/README.md"></a>
 
-> Describe your project in 1 or 2 sentences.
+Hello Microverse Project is the First that created for understanding Linters Configurations and GitHub Flow.
 
 **[HelloMicroverse-]** is About Setup Repositoty with Linters Configurations!
 
